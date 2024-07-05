@@ -39,7 +39,7 @@ Configuration du Back End :
 
 Créer un environnement virtuel :
 python -m venv env
-source env/bin/activate  # Sur Windows utilisez `env\Scripts\activate`
+source env/bin/activate  ou `env\Scripts\activate`
 
 Installer les paquets requis :
 pip install -r requirements.txt

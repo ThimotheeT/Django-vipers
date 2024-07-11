@@ -63,12 +63,12 @@ Installer les dépendances :
 npm install
 
 Démarrer le serveur de développement React :
-npm start
+npm run dev
 
 
 Utilisation
 
-Accéder à l'application à http://localhost:3000 pour le front-end.
+Accéder à l'application à http://localhost:5173 pour le front-end.
 Le panneau d'administration est accessible à http://localhost:8000/admin.
 Les points de terminaison API sont disponibles à http://localhost:8000/api.
 
